@@ -6,9 +6,6 @@ Creating a video frame counter project in Python involves reading a video file, 
 
 # Video
 
+https://github.com/user-attachments/assets/938d1918-32fa-4131-81e3-590ba1c84208
 
-
-
-
-Uploading 292613980-dd9dc6c4-e824-40c8-a01d-8872bc49ac78.mp4…
 
